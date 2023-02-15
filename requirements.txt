@@ -1,5 +1,5 @@
-click~=7.0
-lxml>=4.3.0
-ujson>=1.35
-requests~=2.20.0
+click
+lxml
+ujson
+requests
 pytest
