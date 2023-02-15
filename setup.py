@@ -34,13 +34,13 @@ setup(
 
     packages=find_packages(),
     install_requires=[
-        'click>=7.0',
-        'lxml>=4.3.0',
-        'ujson>=1.35',
-        'requests>=2.20.0',
-        'dumpit>=0.6.0',
-        'aenum>=2.1.2',
-        'defusedxml>=0.6.0',
+        'click',
+        'lxml',
+        'ujson',
+        'requests',
+        'dumpit',
+        'aenum',
+        'defusedxml',
     ],
 
     project_urls={
